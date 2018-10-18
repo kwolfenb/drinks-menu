@@ -1,0 +1,22 @@
+
+div.drinks, div.under21 {
+  display: none;
+}
+
+.drinks {
+  border: 3px solid #111111;
+  padding: 3%;
+  margin-top: 5%;
+  width: 40%;
+}
+
+.under21 {
+  border: 3px solid #111111;
+  padding: 3%;
+  margin-top: 5%;
+  width: 40%;
+}
+
+.under21 h4 {
+  color: red;
+}
