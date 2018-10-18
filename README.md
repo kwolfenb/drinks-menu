@@ -1,6 +1,6 @@
 # _Drinks Menu Webpage_
 
-#### _single Webpage for Epicodus, 10.17.2018_
+#### _Single Webpage for Epicodus, 10.17.2018_
 
 #### By _**Kenny Wolfenberger**_
 
